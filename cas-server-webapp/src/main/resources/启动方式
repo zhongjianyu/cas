@@ -1,0 +1,2 @@
+mvn license:format
+mvn tomcat7:run
